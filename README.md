@@ -4,7 +4,7 @@
 ## This page is to share what understanding and projects I have completed and am capable of with programming.
 
 >Over the course I have worked  to understand the basic knowledge of programming and its uses.  
-One of the first projects I have completed is a small [about me](aboutme.py) summary in **Python**. SOme of the Python programming I have been working on includes using the [Turtle](turtleimage.py) in Python for drawing purposes.  An example of one of the more advanced programs is the famous interview program _FizzBuzz_.    
+One of the first projects I have completed is a small [about me](aboutme.py) summary in **Python**. Some of the Python programming I have been working on includes using the [Turtle](turtleimage.py) in Python for drawing purposes.  An example of one of the more advanced programs is the famous interview program _FizzBuzz_.    
 <!DOCTYPE html>  
 <html>  
 <head>  
