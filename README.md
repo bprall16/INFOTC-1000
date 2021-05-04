@@ -43,6 +43,7 @@ One of the first projects I have completed is a small [about me](aboutme.py) sum
 </html>  
 
 Here is a link to the [FIZZBUZZ](FizzBuzz.HTML) programming.  It was created using [IDLE 3.9](https://www.python.org/downloads/)
+## Life before programming
 >My previous experience has been with the army as a helicopter repair technician. Currently I am serving with the Missouri National Guard in a new position. If you have questions about the military, you can reach the [Missouri National Guard](https://www.moguard.ngb.mil/) and select contact us.
 ## Some of the programs I have worked in this semester are:
 * Markdown
