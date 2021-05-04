@@ -13,7 +13,7 @@ famous interview program _FizzBuzz_.
 <title>Fizz Buzz</title>
 <script>
 
-function fizzbuzz() {
+>function fizzbuzz() {
 	var display = document.getElementById('display');
 	var displayHTML = "";
 	for (i = 0; i <= 100; i++) {
