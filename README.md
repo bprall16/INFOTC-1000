@@ -4,7 +4,7 @@
 ## This page is to share what understanding and projects I have completed and am capable of with programming.
 
 >Over the course I have worked  to understand the basic knowledge of programming and its uses.  
-One of the first projects I have completed is a small [about me]() summary in Python. The most advanced projects inclued the 
+One of the first projects I have completed is a small **about me** summary in Python. The most advanced projects inclued the 
 famous interview program _FizzBuzz_.    
 <!DOCTYPE html>  
 <html>  
