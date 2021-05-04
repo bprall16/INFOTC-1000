@@ -5,7 +5,45 @@
 
 >Over the course I have worked  to understand the basic knowledge of programming and its uses.  
 One of the first projects I have completed is a small [about me]() summary in Python. The most advanced projects inclued the 
-famous interview program [FizzBuzz]().  
+famous interview program _FizzBuzz_.    
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Fizz Buzz</title>
+<script>
+
+function fizzbuzz() {
+	var display = document.getElementById('display');
+	var displayHTML = "";
+	for (i = 0; i <= 100; i++) {
+		var test = "";
+        if (i % 3  == 0 && i % 5 == 0){
+        test += "fizzbuzz"}
+        else if (i % 3 == 0){
+        test += "fizz"}
+        else if (i % 5 == 0){
+        test += "buzz"}
+        else{
+        test += i}
+        displayHTML += "<p>" + test + "</p>";
+	}
+	display.innerHTML = displayHTML
+}
+
+</script>
+
+</head>
+
+<body onload="fizzbuzz()">
+<div id="display">
+
+</div>
+</body>
+
+</html>
+
+
 >My previous experience has been with the army as a helicopter repair technician. Currently I am serving with the Missouri National Guard in a new position. If you have questions about the military, you can reach the [Missouri National Guard](https://www.moguard.ngb.mil/) and select contact us.
 ## Some of the programs I have worked in this semester are:
 * Markdown
